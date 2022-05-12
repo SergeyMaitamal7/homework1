@@ -1,0 +1,25 @@
+@import './utils/variables';
+@import './utils/visually-hidden';
+
+@import './base/common';
+@import './base/containers';
+
+@import './components/btn';
+@import './components/icon_links';
+@import './components/join';
+@import './components/form';
+@import './components/logo';
+@import './components/modal';
+@import './components/overlay';
+@import './components/addres';
+@import './components/mobile_menu';
+
+@import './layout/benefits';
+@import './layout/clients';
+@import './layout/content';
+@import './layout/header';
+@import './layout/navigation';
+@import './layout/footer';
+@import './layout/hero';
+@import './layout/team';
+@import './layout/work';

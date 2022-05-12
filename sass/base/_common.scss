@@ -1,0 +1,42 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: var(--text-color-grey);
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+section {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+@media screen and (min-width: 1280px) {
+  section {
+    padding-top: 94px;
+    padding-bottom: 94px;
+  }
+}
